@@ -2,7 +2,7 @@
 
 **Palmeter** is a Python powered real time hand tracking tool that uses  **MediaPipe** and  **OpenCV** to detect multiple hands and calculate the **distance between them**.📏
 
-![PalmeterDemo]()
+![PalmeterDemo](https://github.com/KrishBharadwaj5678/Palmeter/raw/main/Palmeter.mp4)
 
 ---
 
@@ -25,14 +25,12 @@
 
 | Technology         | Description                                                         |
 | ------------------ | ------------------------------------------------------------------- | 
-| 🧠 MediaPipe       | Hand landmark detection and tracking solution                       | 
+| 🧠 MediaPipe       | Hand landmark detection                                             | 
 | 🎥 OpenCV          | Real-time computer vision library                                   | 
 | ⚙️ cvzone          | Simplifies hand tracking                                            |
 | 🐍 Python 3.x      | Programming language                                                | 
 
 ---
-
-
 
 ## 🚀 Installation
 
@@ -55,3 +53,43 @@
    ```
 
 ---
+
+## 🤝 Contributing
+
+We welcome contributions to **Palmeter**!
+
+1. **🍴 Fork the repository**
+
+2. **📥 Clone your fork**
+
+   ```bash
+   git clone https://github.com/yourusername/Palmeter.git
+   cd Palmeter
+   ```
+
+3. **🌿 Create a new branch**
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **🛠️ Make your changes**
+
+5. **✅ Test your changes**
+
+6. **💾 Commit your changes**
+
+   ```bash
+   git add .
+   git commit -m "Add feature XYZ or Fix bug ABC"
+   ```
+
+7. **🚀 Push to your fork**
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+8. **📬 Create a Pull Request (PR)**
+    - Go to your fork on GitHub and click **Compare & pull** request.
+    - Describe your changes clearly and submit the PR.
