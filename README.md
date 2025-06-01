@@ -13,7 +13,7 @@
 | ✋ Multi Hand Detection           | Detects **two hands** in real time using MediaPipe                          |
 | 📏 Palm Distance Calculation     | Calculates **distance between palms**                                       |
 | 🎯 Real Time Display             | Dynamically displays distance on the screen                                |
-| 🖼️ Visual Overlays               | Draws hand landmarks and lines for better understanding                    |
+| 🖼️ Visual Overlays               | Draws hand landmarks for better understanding                              |
 | 🔁 Continuous Tracking           | Continuously updates hand positions frame by frame                         |
 | ⚡ Lightweight Performance       | Runs fast even on low spec machines using only CPU                         |
 | 🧪 Easy to Extend                | Clean codebase ready for gesture recognition                               |
