@@ -1,6 +1,8 @@
 # ✋ Palmeter
 
-**Palmeter** is a Python powered real time hand tracking tool that uses  **MediaPipe** and  **OpenCV** to detect multiple hands and calculate the **distance between them**.
+**Palmeter** is a Python powered real time hand tracking tool that uses  **MediaPipe** and  **OpenCV** to detect multiple hands and calculate the **distance between them**.📏
+
+![PalmeterDemo]()
 
 ---
 
