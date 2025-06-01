@@ -2,7 +2,7 @@
 
 **Palmeter** is a Python powered real time hand tracking tool that uses  **MediaPipe** and  **OpenCV** to detect multiple hands and calculate the **distance between them**.📏
 
-![PalmeterDemo](https://github.com/KrishBharadwaj5678/Palmeter/raw/main/PalmeterDemo.gif)
+![PalmeterDemo]()
 
 ---
 
