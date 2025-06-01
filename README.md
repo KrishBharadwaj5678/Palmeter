@@ -2,7 +2,7 @@
 
 **Palmeter** is a Python powered real time hand tracking tool that uses  **MediaPipe** and  **OpenCV** to detect multiple hands and calculate the **distance between them**.📏
 
-![PalmeterDemo]()
+![PalmeterDemo](https://github.com/KrishBharadwaj5678/Palmeter/raw/main/PalmeterDemo.gif)
 
 ---
 
@@ -12,10 +12,10 @@
 |----------------------------------|-----------------------------------------------------------------------------|
 | ✋ Multi Hand Detection           | Detects **two hands** in real time using MediaPipe                          |
 | 📏 Palm Distance Calculation     | Calculates **distance between palms**                                       |
-| 🎯 Real Time Display             | Dynamically displays distance on the screen using OpenCV                    |
+| 🎯 Real Time Display             | Dynamically displays distance on the screen                                |
 | 🖼️ Visual Overlays               | Draws hand landmarks and lines for better understanding                    |
 | 🔁 Continuous Tracking           | Continuously updates hand positions frame by frame                         |
-| ⚡ Lightweight Performance       | Runs fast even on low-spec machines using only CPU                         |
+| ⚡ Lightweight Performance       | Runs fast even on low spec machines using only CPU                         |
 | 🧪 Easy to Extend                | Clean codebase ready for gesture recognition                               |
 
 ---
@@ -26,8 +26,8 @@
 | Technology         | Description                                                         |
 | ------------------ | ------------------------------------------------------------------- | 
 | 🧠 MediaPipe       | Hand landmark detection                                             | 
-| 🎥 OpenCV          | Real-time computer vision library                                   | 
-| ⚙️ cvzone          | Simplifies hand tracking                                            |
+| 🎥 OpenCV          | Real time computer vision library                                   | 
+| ⚙️ CvZone          | Simplifies hand tracking                                            |
 | 🐍 Python 3.x      | Programming language                                                | 
 
 ---
