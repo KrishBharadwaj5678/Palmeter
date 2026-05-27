@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # ✋ Palmeter
 
 **Palmeter** is a Python powered real time hand tracking tool that detect multiple hands and calculate the **distance between them**.
